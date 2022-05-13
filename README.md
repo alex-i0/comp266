@@ -31,4 +31,4 @@ To start, you can run Live Server in VSCode or just open html file in the browse
 <!-- CONTACT -->
 ## Contact
 
-Aleksander Karp - [@your_twitter](https://www.linkedin.com/in/aleksander-karp/) - contact@alekarp.com
+Aleksander Karp - [LinkedIn](https://www.linkedin.com/in/aleksander-karp/) - contact@alekarp.com
