@@ -1,0 +1,30 @@
+section.homepage-background {
+    /* Photo by Austin Neill on Unsplash https://unsplash.com/photos/hgO1wFPXl3I?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink */
+    background-image: url('/assets/images/concert-background.webp');
+    height: calc(100vh - 200px);
+    background-size: cover;
+}
+
+section > div.header {
+    padding: 40px;
+}
+
+section > div.header > h1 {
+    width: 80%;
+    margin-bottom: 20px;
+}
+
+section > div.header > p {
+    margin-bottom: 60px;
+}
+
+section > div.header > div.button-group {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 260px;
+}
+
+
+
+

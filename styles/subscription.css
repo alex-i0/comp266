@@ -1,0 +1,34 @@
+section {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+div.card {
+    width: 100%;
+    background-color: var(--grayscale-ash);
+    border-radius: var(--border-roundness);
+    padding: 48px;
+    margin: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+div.card > span {
+
+}
+
+div.card > h3 {
+
+}
+
+div.card > p {
+
+}
+
+div.card-alt {
+    background-color: var(--primary-color);
+    color: var(--grayscale-off-black);
+}
